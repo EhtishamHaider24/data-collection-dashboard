@@ -85,4 +85,4 @@ Logs are stored in the `logs/` directory:
 
 ## License
 
-This project is not available for personal use.
+This project is open source and available for personal use.
